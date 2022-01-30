@@ -14,7 +14,7 @@ eu.endereço = "Maré"
 delete eu.signo
 
 //Mostre no console todas as propriedades desse objeto.
-//console.log(eu)
+console.log(eu)
 
 // Crie um array  chamado "cadastro" contendo ao menos 5 objetos. 
 //Cada objeto deve receber as seguintes propriedades: nome,  idade,  telefone, amigos
